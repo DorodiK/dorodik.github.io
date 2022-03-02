@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Eng. in Systems Design Engineering (AI-ML specialisation), University of Waterloo, 2021
+* B.Eng. in Aerospace Engineering, University of Manchester, 2017
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2021: Junior Machine Learning Engineer
+  * Omdena
+  * Duties included: 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2021: Graduate Teaching Assistant
+  * University of Waterloo
+  * Duties included: Graded assignments and provided feedback
+  * Course: Communication & Visualisation in Biomedical Engineering (101L) and Systems Design Engineering (101)
+  * Instructor names(s): Ewen MacDonald, Kate Mercer
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Databases: SQL (MySQL)
+* Programming:
+  * Python (numpy, pandas, matplotlib, scikit-learn, tensorflow, nltk)
+  * MATLAB (Simulink)
+  * HTML/CSS & Javascript (D3)
+* BI/Visualisation:
+  * Microsoft PowerBI
+  * Excel spreadsheets
+* Repository Management:
+  * GitHub
+  * DagsHub 
 
 Publications
 ======
